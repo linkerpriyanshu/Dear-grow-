@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Growth Services</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: #f4f7f6; text-align: center; padding: 20px; }
+        h1 { color: #d62976; margin-bottom: 10px; }
+        p.subtitle { color: #555; margin-bottom: 30px; }
+        
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 25px;
+            width: 280px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            border-top: 5px solid #e1306c;
+            transition: transform 0.2s;
+        }
+
+        .card:hover { transform: translateY(-5px); }
+        .card h2 { color: #333; margin-bottom: 10px; }
+        .card .price { font-size: 28px; font-weight: bold; color: #d62976; margin: 15px 0; }
+        .card ul { list-style: none; margin-bottom: 20px; color: #666; text-align: left; line-height: 1.8; }
+        .card ul li::before { content: "✓ "; color: #4caf50; font-weight: bold; }
+
+        .btn-whatsapp {
+            display: inline-block;
+            background-color: #25D366;
+            color: #fff;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 25px;
+            font-weight: bold;
+            font-size: 16px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .btn-whatsapp:hover { background-color: #128C7E; }
+    </style>
+</head>
+<body>
+
+    <h1>🚀 Instagram Services</h1>
+    <p class="subtitle">Fast Delivery & Best Quality Guaranteed</p>
+
+    <div class="container">
+        
+        <!-- Package 1: Likes -->
+        <div class="card">
+            <h2>1,000 Likes</h2>
+            <div class="price">₹49</div>
+            <ul>
+                <li>High Quality Likes</li>
+                <li>Instant Delivery</li>
+                <li>No Password Needed</li>
+            </ul>
+            <a class="btn-whatsapp" href="https://wa.me/91YOURNUMBER?text=Mujhe%201000%20Instagram%20Likes%20chahiye" target="_blank">Order On WhatsApp</a>
+        </div>
+
+        <!-- Package 2: Followers -->
+        <div class="card">
+            <h2>1,000 Followers</h2>
+            <div class="price">₹99</div>
+            <ul>
+                <li>Real & Active Profile</li>
+                <li>24-48 Hours Delivery</li>
+                <li>Non-Drop Quality</li>
+            </ul>
+            <a class="btn-whatsapp" href="https://wa.me/916387321422?text=Mujhe%201000%20Instagram%20Followers%20chahiye" target="_blank">Order On WhatsApp</a>
+        </div>
+
+        <!-- Package 3: Combo Pack -->
+        <div class="card">
+            <h2>Combo Pack</h2>
+            <div class="price">₹199</div>
+            <ul>
+                <li>2,000 Followers</li>
+                <li>2,000 Likes</li>
+                <li>5,000 Views Free</li>
+            </ul>
+            <a class="btn-whatsapp" href="https://wa.me/91YOURNUMBER?text=Mujhe%20Combo%20Pack%20chahiye" target="_blank">Order On WhatsApp</a>
+        </div>
+
+    </div>
+
+</body>
+</html>
